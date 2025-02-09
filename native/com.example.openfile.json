@@ -1,0 +1,9 @@
+{
+  "name": "com.example.openfile",
+  "description": "Opens file links in an external player",
+  "path": "C:\\chrome_open_local_video\\start_app.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://CHROME_EXTENSION_ID/"
+  ]
+}
